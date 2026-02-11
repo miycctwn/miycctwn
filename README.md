@@ -1,14 +1,5 @@
 <h1 align="center"> Hey there, I'm Mindy 👋 </h1>
 
-<h2 align="left">👩‍💻 About Me</h3>
-🔮 Full-stack engineer crafting code from both ends of the stack
-<br>
-🚀 From frontend wizardry to DevOps sorcery
-<br>
-📚 Currently exploring: Cloud Native Architecture & Reactive Programming & AI Image Recognition
-<br>
-⚡ 2025 Goal: Tech blogging, Building side projects
-
 <h2 align="left">🛠 Language and tools </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo"/>
