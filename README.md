@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"/>
 </div>
 
-<h2 align="left">🔥 My Stats </h3>
+<h2 align="left"> 🔥 My Stats </h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=miycctwn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -23,3 +23,5 @@
 <a href="https://www.linkedin.com/in/mindy-tai-712722113/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
 </a>
+
+
