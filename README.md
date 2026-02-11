@@ -25,7 +25,7 @@
 
 <h2 align="left">🔥 My Stats </h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MindyTai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=miycctwn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <h2> ✍️ Contact Me </h2>
